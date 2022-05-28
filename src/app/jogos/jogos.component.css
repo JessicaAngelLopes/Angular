@@ -1,0 +1,35 @@
+#banner-jogos{
+    height: 350px;
+    margin: 0px auto;
+    background-color: #0660ac;
+    background-image: linear-gradient(135deg,#000000 0%, rgb(15 80 136) 100%);
+    
+}
+
+#banner-jogos img{
+width: 100%;
+height: 500px;
+
+ }
+
+ #jogo1{
+     width: 500px;
+     height: 250px;
+     margin-top:20px;
+     margin-left:20px ;
+ }
+ 
+ 
+ #jogo2{
+    width: 250px;
+    height: 250px;
+    margin-top:20px;
+    margin-left: 300px;
+}
+
+#jogo3{
+    width: 250px;
+    height: 250px;
+    margin-top:20px;
+    margin-left: 600px;
+}
